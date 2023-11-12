@@ -1,4 +1,3 @@
-# Taller_2_Front
 # Sistema de Información de Transmilenio
 Este proyecto es un Sistema de Información para la gestión de conductores, rutas y paradas de Transmilenio, proporcionando una interfaz de usuario intuitiva y funcionalidades CRUD (Crear, Leer, Actualizar, Eliminar) para cada uno de los elementos mencionados.
 
